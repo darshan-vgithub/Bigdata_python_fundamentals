@@ -36,3 +36,17 @@ print("hello \b world") # backspace
 
 if 5>2:
     print("5 is greater than 2")    
+
+
+# variable assignment
+
+name ="darshan"
+
+number=10
+
+print(name)
+print(number)
+
+
+print(type(name))
+print(type(number))
